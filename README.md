@@ -45,7 +45,7 @@
 ### Studying in this moment:
 ![Angular.js](https://img.shields.io/badge/-Angular.js-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Scrum](https://img.shields.io/badge/-Scrum-0D1117?style=for-the-badge&logo=scrum&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
