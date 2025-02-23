@@ -1,4 +1,8 @@
-# Olá, Eu sou Tiago 👨‍💻
+# Olá, Eu sou Tiago Figueiredo 👨‍💻
+![Building GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY4c2l6N3lncWJib2JxZHY2c2k4eDVtN2UwYWFvc240bDVvdGFzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+
+
+
 
 Bem-vindo ao meu GitHub! Sou desenvolvedor fullstack com 2 anos de experiência, apaixonado por criar soluções eficientes e inovadoras. Neste perfil, você encontrará meus projetos pessoais, contribuições em código aberto e minhas experimentações com novas tecnologias. 🚀
 
