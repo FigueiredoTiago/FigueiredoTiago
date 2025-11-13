@@ -34,13 +34,14 @@ Aqui estão algumas das minhas contribuições mais recentes e estatísticas do 
 
 ## 🌱 Estou aprendendo
 
-Atualmente, estou focado em aprender mais sobre:
+Atualmente, estou focado em aprender um pouco mais sobre:
 
 - **Cloud Computing** com AWS e Render
 - **Docker** para dev e Produção.
 - **Design System** e melhores práticas de UI/UX
 - **Web Performance Optimization** para criar sites mais rápidos
-- **Melhorias e Boas práticas de Segurança.
+- **Melhorias e Boas práticas de Segurança**
+- **Java e Spring Boot para criação de APIs**
 
 ## 🔗 Conecte-se comigo
 
