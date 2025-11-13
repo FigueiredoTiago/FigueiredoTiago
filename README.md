@@ -4,7 +4,7 @@
 
 
 
-Bem-vindo ao meu GitHub! Sou desenvolvedor fullstack com 2 anos de experiência, apaixonado por criar soluções eficientes e inovadoras. Neste perfil, você encontrará meus projetos pessoais, contribuições em código aberto e minhas experimentações com novas tecnologias. 🚀
+Bem-vindo ao meu GitHub! Sou desenvolvedor fullstack Junior Apaixonado por programação e tecnologia. Neste perfil, você encontrará "alguns" de meus projetos pessoais e um poquinho sobre mim. 🚀
 
 ## 🛠️ Tecnologias que eu uso
 
@@ -36,10 +36,11 @@ Aqui estão algumas das minhas contribuições mais recentes e estatísticas do 
 
 Atualmente, estou focado em aprender mais sobre:
 
-- **Cloud Computing** com AWS e Google Cloud
-- **API GraphQL** para sistemas mais dinâmicos
+- **Cloud Computing** com AWS e Render
+- **Docker** para dev e Produção.
 - **Design System** e melhores práticas de UI/UX
 - **Web Performance Optimization** para criar sites mais rápidos
+- **Melhorias e Boas práticas de Segurança.
 
 ## 🔗 Conecte-se comigo
 
